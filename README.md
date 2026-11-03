@@ -10,7 +10,7 @@ This `main` branch has only this README. It has no code.
 
 | Branch | Source repository | Contents | Last commit |
 | --- | --- | --- | --- |
-| `python` | Python-era application | The Python-era Virtool application and retired workflow repositories. | |
+| `python` | Python-era application | The Python-era Virtool application and retired workflow repositories. | 2026-08-17 |
 | `ui` | `virtool/virtool-ui` | The browser frontend for Virtool. | 2026-08-18 |
 | `create-sample` | `virtool/workflow-create-sample` | Workflow that creates Virtool samples. | 2026-08-17 |
 | `create-subtraction` | `virtool/workflow-create-subtraction` | Workflow that creates Virtool subtractions. | 2026-08-12 |
